@@ -1,0 +1,13 @@
+# Site settings
+title: WAZE - Westmoreland Area Zymology Enthusiasts
+tag_text: WAZE - Westmoreland Area Zymology Enthusiasts
+description: A homebrewing club that is based in Westmoreland County, Pennsylvania.
+url: "http://127.0.0.1:4000"
+baseurl: ""
+
+font-awesome-include: true # make this false if you don't need font-awesome
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
